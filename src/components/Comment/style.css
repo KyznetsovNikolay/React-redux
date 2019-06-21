@@ -1,0 +1,26 @@
+.comments-post {
+    border: 1px solid #d6d6d6;
+    border-radius: 6px;
+    margin: 20px auto 10px;
+    width: 700px;
+    background-color: #ffffff;
+}
+.com-head {
+    cursor: pointer;
+    border-radius: 6px 6px 0 0;
+    background-color: #e0e0e0;
+    padding: 8px;
+}
+.pad {
+    padding: 15px;
+}
+.com-lay {
+    display: flex;
+    justify-content: space-between;
+    width: 900px;
+    margin: 30px auto 20px;
+}
+.com-border {
+    width: 1140px;
+    margin: 0 auto;
+}

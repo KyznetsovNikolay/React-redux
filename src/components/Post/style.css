@@ -1,0 +1,47 @@
+.post {
+    border: 1px solid #d6d6d6;
+    border-radius: 6px;
+    margin: 10px auto;
+    width: 800px;
+    padding: 20px;
+    background-color: #ffffff;
+}
+.post-id {
+    border: 1px solid #d6d6d6;
+    border-radius: 6px;
+    margin: 10px auto;
+    width: 800px;
+    background-color: #ffffff;
+}
+.pad {
+    padding: 20px;
+}
+.pointer {
+    cursor: pointer;
+    border-radius: 6px 6px 0 0;
+    background-color: #efefef;
+    padding: 15px;
+}
+.img {
+    margin: 20px 0 0 0;
+}
+.text {
+    margin-top: 40px;
+}
+.but {
+    display: flex;
+    margin-top: 30px;
+}
+.div {
+    margin: 0 7px 0 7px;
+}
+.del {
+    display: flex;
+    justify-content: space-between;
+    width: 450px;
+}
+.del-to {
+    display: flex;
+    justify-content: space-between;
+    width: 250px;
+}

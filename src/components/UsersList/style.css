@@ -1,0 +1,10 @@
+.post-label {
+    display: flex;
+    justify-content: space-between;
+    width: 900px;
+    margin: 0 auto 20px;
+}
+.user-list {
+    margin: 0 auto;
+    width: 1140px;
+}
